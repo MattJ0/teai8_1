@@ -10,6 +10,7 @@ public class Teai81Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Teai81Application.class, args);
+
     }
 
 }
